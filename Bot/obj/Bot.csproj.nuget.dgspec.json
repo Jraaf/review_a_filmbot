@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nasib\\Desktop\\Projects\\Temp\\Bot\\Bot\\Bot.csproj": {}
+    "C:\\Users\\nasib\\Desktop\\Projects\\Temp\\Bot\\review_a_filmbot\\review_a_filmbot\\Bot\\Bot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nasib\\Desktop\\Projects\\Temp\\Bot\\Bot\\Bot.csproj": {
+    "C:\\Users\\nasib\\Desktop\\Projects\\Temp\\Bot\\review_a_filmbot\\review_a_filmbot\\Bot\\Bot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nasib\\Desktop\\Projects\\Temp\\Bot\\Bot\\Bot.csproj",
+        "projectUniqueName": "C:\\Users\\nasib\\Desktop\\Projects\\Temp\\Bot\\review_a_filmbot\\review_a_filmbot\\Bot\\Bot.csproj",
         "projectName": "Bot",
-        "projectPath": "C:\\Users\\nasib\\Desktop\\Projects\\Temp\\Bot\\Bot\\Bot.csproj",
+        "projectPath": "C:\\Users\\nasib\\Desktop\\Projects\\Temp\\Bot\\review_a_filmbot\\review_a_filmbot\\Bot\\Bot.csproj",
         "packagesPath": "C:\\Users\\nasib\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nasib\\Desktop\\Projects\\Temp\\Bot\\Bot\\obj\\",
+        "outputPath": "C:\\Users\\nasib\\Desktop\\Projects\\Temp\\Bot\\review_a_filmbot\\review_a_filmbot\\Bot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

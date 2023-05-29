@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "trfMmKCObo7aNNr4KKlcj4F3wRxLpVE9rFeKi7XlEFUeeH3hvd039pn8gdy8qqT3vqApyOhm8CY++n8o09iH5g==",
+  "dgSpecHash": "uhX5cy0DKTZl3RjMTbWcRTSRgV8IaM2lfKmo8i7AXWPfX4kPPOegSxFyhqRbs03zLHEHSdr1V2mpy6bk0qdSag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nasib\\Desktop\\Projects\\Temp\\Bot\\Bot\\Bot.csproj",
+  "projectFilePath": "C:\\Users\\nasib\\Desktop\\Projects\\Temp\\Bot\\review_a_filmbot\\review_a_filmbot\\Bot\\Bot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nasib\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\nasib\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
